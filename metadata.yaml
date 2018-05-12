@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '36371'
     url: http://www.gutenberg.org/2009/agents/36371
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33371#Raising-P.-V.-Squabs-for-Profit
 gutenberg_issued: '2010-08-07'
 gutenberg_type: Text
 identifiers:
